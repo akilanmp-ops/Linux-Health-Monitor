@@ -19,7 +19,7 @@ The project also uses Cron to automatically execute the health check at regular 
 - Automated execution using Cron
 - Log file generation
 
-## Project Workflow
+## 🔀Project Workflow
 
     Linux System
          │
@@ -60,13 +60,13 @@ The project also uses Cron to automatically execute the health check at regular 
 - ping
 - systemctl
 
-## Requirements
+## 📝Requirements
 
 - Linux operating system
 - Bash
 - SSH service for SSH monitoring
 
-## Installation
+## 📥Installation
 
 Clone the repository:
 
@@ -80,7 +80,7 @@ Make the script executable:
 
     chmod +x health_check.sh
 
-## Usage
+## ⚙️ Usage
 
 Run the health monitor:
 
@@ -96,7 +96,7 @@ The script checks:
 - Top CPU-consuming processes
 - Overall system health
 
-## Warning Thresholds
+##⚠️ Warning Thresholds
 
 The default warning thresholds are:
 
@@ -107,7 +107,7 @@ If RAM or disk usage exceeds 80%, the corresponding status changes to WARNING.
 
 The overall system health also changes to WARNING if either RAM or disk usage exceeds the configured threshold.
 
-## Cron Automation
+## 🦾Cron Automation
 
 The health monitor can be automated using Cron.
 
@@ -133,7 +133,7 @@ For live monitoring:
 
     tail -f ~/health.log
 
-## Sample Output
+## 🎯Sample Output
 
     ========================================
             LINUX SYSTEM HEALTH REPORT
@@ -170,7 +170,7 @@ For live monitoring:
     Report generated : Sunday 13 September 2026 03:03:13 PM IST
     ========================================
 
-## Project Structure
+## 🏗️ Project Structure
 
     LinuxHealthMonitor/
     │
@@ -185,7 +185,7 @@ For live monitoring:
     └── screenshots/
         └── health-report.png
 
-## Learning Outcomes
+## 💡Learning Outcomes
 
 Through this project, I practiced:
 
@@ -201,7 +201,7 @@ Through this project, I practiced:
 - Cron job automation
 - Linux system administration
 
-## Future Improvements
+## ⏳Future Improvements
 
 - CPU warning threshold
 - Monitoring multiple services
@@ -213,7 +213,7 @@ Through this project, I practiced:
 - Windows PowerShell version
 - Cloud-based monitoring
 
-## Author
+## 📚Author
 
 **Akilan**
 
