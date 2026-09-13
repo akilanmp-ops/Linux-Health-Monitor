@@ -13,7 +13,7 @@ The project also uses Cron to automatically execute the health check at regular 
 - Configurable disk warning threshold
 - Internet connectivity check
 - SSH service status monitoring
-- Top 5 CPU-consuming processes
+- CPU-consuming processes
 - Overall system health status
 - Timestamped health reports
 - Automated execution using Cron
