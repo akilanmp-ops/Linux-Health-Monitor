@@ -96,7 +96,7 @@ The script checks:
 - Top CPU-consuming processes
 - Overall system health
 
-##⚠️ Warning Thresholds
+## ⚠️ Warning Thresholds
 
 The default warning thresholds are:
 
