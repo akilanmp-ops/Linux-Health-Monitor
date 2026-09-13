@@ -1,10 +1,10 @@
-# Linux System Health Monitor
+#🌀Linux System Health Monitor
 
 A Bash-based Linux system monitoring tool that checks important system resources and services, evaluates their health, and generates a clear system health report.
 
 The project also uses Cron to automatically execute the health check at regular intervals and store the generated reports in a log file.
 
-## Features
+## 🚀Features
 
 - CPU usage monitoring
 - RAM usage monitoring
@@ -47,7 +47,7 @@ The project also uses Cron to automatically execute the health check at regular 
                   ▼
                  Cron
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Linux
 - Bash Shell Scripting
