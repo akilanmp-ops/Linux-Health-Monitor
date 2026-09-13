@@ -1,4 +1,4 @@
-#🌀Linux System Health Monitor
+# 🌀Linux System Health Monitor
 
 A Bash-based Linux system monitoring tool that checks important system resources and services, evaluates their health, and generates a clear system health report.
 
